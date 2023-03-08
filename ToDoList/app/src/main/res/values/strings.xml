@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="desc">description</string>
+    <string name="deadline">deadline</string>
+    <string name="image">image</string>
+    <string name="audio">audio</string>
+    <string name="pos">position</string>
+    <string name="remember_to">Remember to do this within:</string>
+    <string name="show_image">Show image</string>
+    <string name="listen_audio">Listen image</string>
+    <string name="remove_message">Are you sure to remove this note?</string>
+    <string name="choose_message">What do you do?</string>
+    <string name="alert_choose_title">Modify or Remove?</string>
+    <string name="modify">Modify</string>
+    <string name="remove">Remove</string>
+    <string name="exit">Exit</string>
+    <string name="note_removed">Note removed</string>
+    <string name="note_modified">Note modified</string>
+    <string name="title_activity_sample">SampleActivity</string>
+    <string name="insert_desc">Insert a description</string>
+    <string name="desc_error">You have to write a description to add a note</string>
+    <string name="note_added">Note added</string>
+    <string name="add">Add</string>
+    <string name="image_added">Image added</string>
+    <string name="audio_added">Audio added</string>
+    <string name="language_not_supposed">This language is not supposed</string>
+    <string name="init_fail">Initialization failed</string>
+    <string name="error">Error</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_available">Actually the service is not available</string>
+    <string name="map">Map</string>
+    <string name="login">Login</string>
+    <string name="slider">Review</string>
+    <string name="note_list">Note list</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="audio_init">0:0:0</string>
+    <string name="query_failed">Query failed</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="forgot">Forgot password?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="remember_me">Remember me</string>
+    <string name="email">email</string>
+    <string name="pass">password</string>
+    <string name="retain">retain</string>
+    <string name="retrieve">You have to write the e-mail to retrieve the password</string>
+    <string name="reset_email">A reset email is sent to %s</string>
+    <string name="verify">Now %s is signed up!</string>
+    <string name="user_not_verified">User not verified</string>
+    <string name="user_exists">this e-mail is already used</string>
+    <string name="sign_out">Signed out</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="error_location">Actually the location tracker is not available.</string>
+    <string name="title_activity_login2">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
